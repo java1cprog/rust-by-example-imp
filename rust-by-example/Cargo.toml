@@ -1,0 +1,9 @@
+[workspace]
+
+members=[
+"hello",
+"comment",
+"print",
+"print_debug",
+
+]

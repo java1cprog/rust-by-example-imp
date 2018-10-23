@@ -1,0 +1,27 @@
+[package]
+name = "print_debug"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "print_debug"
+path = "src/main.rs"
+
+[[bin]]
+name = "derive"
+path = "src/derive.rs"
+
+[[bin]]
+name = "debug_pretty"
+path = "src/debug_pretty.rs"
+
+[[bin]]
+name = "display"
+path = "src/display.rs"
+
+[[bin]]
+name = "display2"
+path = "src/display2.rs"
