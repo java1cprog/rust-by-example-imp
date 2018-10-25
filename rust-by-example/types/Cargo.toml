@@ -17,3 +17,9 @@ path="src/literals.rs"
 [[bin]]
 name="inference"
 path="src/inference.rs"
+
+
+[[bin]]
+name="alias"
+path="src/alias.rs"
+

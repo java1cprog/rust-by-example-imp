@@ -1,0 +1,75 @@
+[package]
+name = "flow_control"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name ="if_else"
+path="src/if_else.rs"
+
+[[bin]]
+name ="loop"
+path="src/loop.rs"
+
+[[bin]]
+name ="loop_nested"
+path="src/loop_nested.rs"
+
+[[bin]]
+name ="loop_return"
+path="src/loop_return.rs"
+
+[[bin]]
+name ="while"
+path="src/while.rs"
+
+[[bin]]
+name ="for1"
+path="src/for1.rs"
+
+[[bin]]
+name ="for2"
+path="src/for2.rs"
+
+[[bin]]
+name ="for_range_inclusive"
+path="src/for_range_inclusive.rs"
+
+[[bin]]
+name ="for_iter"
+path="src/for_iter.rs"
+
+[[bin]]
+name ="for_into_iter"
+path="src/for_into_iter.rs"
+
+[[bin]]
+name ="for_iter_mut"
+path="src/for_iter_mut.rs"
+
+[[bin]]
+name ="match"
+path="src/match.rs"
+
+[[bin]]
+name ="match_destructuring_destructure_tuple"
+path="src/match_destructuring_destructure_tuple.rs"
+
+[[bin]]
+name ="match_destructuring_destructure_enum"
+path="src/match_destructuring_destructure_enum.rs"
+
+[[bin]]
+name ="match_destructuring_destructure_pointers"
+path="src/match_destructuring_destructure_pointers.rs"
+
+[[bin]]
+name ="match_destructuring_destructure_structures"
+path="src/match_destructuring_destructure_structures.rs"
+
+[[bin]]
+name ="match_guard"
+path="src/match_guard.rs"

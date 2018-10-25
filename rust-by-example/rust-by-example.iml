@@ -55,9 +55,19 @@
       <sourceFolder url="file://$MODULE_DIR$/types/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/types/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/types/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/conversion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/conversion/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/conversion/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/conversion/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/flow_control/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flow_control/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flow_control/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/flow_control/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/array_slice/target" />
       <excludeFolder url="file://$MODULE_DIR$/comment/target" />
+      <excludeFolder url="file://$MODULE_DIR$/conversion/target" />
       <excludeFolder url="file://$MODULE_DIR$/enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/flow_control/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/primitives/target" />
       <excludeFolder url="file://$MODULE_DIR$/print/target" />
