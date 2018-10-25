@@ -23,11 +23,51 @@
       <sourceFolder url="file://$MODULE_DIR$/print_debug/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/print_debug/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/print_debug/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/primitives/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/primitives/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/primitives/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/primitives/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tupels/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tupels/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tupels/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tupels/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/array_slice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/array_slice/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/array_slice/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/array_slice/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/structures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structures/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structures/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/structures/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/use_/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/use_/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/use_/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/use_/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/variable_bindings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/variable_bindings/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/variable_bindings/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/variable_bindings/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/types/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/types/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/types/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/array_slice/target" />
       <excludeFolder url="file://$MODULE_DIR$/comment/target" />
+      <excludeFolder url="file://$MODULE_DIR$/enums/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello/target" />
+      <excludeFolder url="file://$MODULE_DIR$/primitives/target" />
       <excludeFolder url="file://$MODULE_DIR$/print/target" />
       <excludeFolder url="file://$MODULE_DIR$/print_debug/target" />
+      <excludeFolder url="file://$MODULE_DIR$/structures/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tupels/target" />
+      <excludeFolder url="file://$MODULE_DIR$/types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/use_/target" />
+      <excludeFolder url="file://$MODULE_DIR$/variable_bindings/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

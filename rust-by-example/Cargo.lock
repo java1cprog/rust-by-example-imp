@@ -1,9 +1,21 @@
 [[package]]
+name = "array_slice"
+version = "0.1.0"
+
+[[package]]
 name = "comment"
 version = "0.1.0"
 
 [[package]]
+name = "enums"
+version = "0.1.0"
+
+[[package]]
 name = "hello"
+version = "0.1.0"
+
+[[package]]
+name = "primitives"
 version = "0.1.0"
 
 [[package]]
@@ -12,5 +24,25 @@ version = "0.1.0"
 
 [[package]]
 name = "print_debug"
+version = "0.1.0"
+
+[[package]]
+name = "structures"
+version = "0.1.0"
+
+[[package]]
+name = "tupels"
+version = "0.1.0"
+
+[[package]]
+name = "types"
+version = "0.1.0"
+
+[[package]]
+name = "use_"
+version = "0.1.0"
+
+[[package]]
+name = "variable_bindings"
 version = "0.1.0"
 

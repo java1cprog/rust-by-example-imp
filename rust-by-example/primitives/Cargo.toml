@@ -1,0 +1,19 @@
+[package]
+name = "primitives"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "primitives"
+path = "src/main.rs"
+
+[[bin]]
+name = "literals"
+path = "src/literals.rs"
+
+[[bin]]
+name = "literals2"
+path = "src/literals2.rs"

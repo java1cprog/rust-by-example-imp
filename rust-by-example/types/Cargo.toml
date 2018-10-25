@@ -1,0 +1,19 @@
+[package]
+name = "types"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name="cast"
+path="src/cast.rs"
+
+[[bin]]
+name="literals"
+path="src/literals.rs"
+
+[[bin]]
+name="inference"
+path="src/inference.rs"

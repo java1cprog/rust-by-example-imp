@@ -1,8 +1,9 @@
-// cargo run -p print_debug --bin display2
+// cargo run -p print_debug --bin display2_simpler
 
 //use std::fmt;
 
 use core::fmt;
+use std::fmt::Error;
 
 // A structure holding two numbers. `Debug` will be derived so the results can
 // be contrasted with `Display`.
@@ -13,7 +14,11 @@ struct MinMax(i64, i64);
 impl fmt::Display for MinMax {
     fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
         // Use `self.number` to refer to each positional data point.
-        write!(f, "({}, {})", self.0, self.1)
+        //write!(f, "Min and Max values:\n")?;
+        // try!(write!(f, "Min and Max values:\n"));
+        let result:Result<(), Error>  = write!(f, "({}, {})", self.0, self.1);
+        result
+
     }
 }
 

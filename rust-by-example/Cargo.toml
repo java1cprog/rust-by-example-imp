@@ -5,5 +5,14 @@ members=[
 "comment",
 "print",
 "print_debug",
+"primitives",
+"tupels",
+"array_slice",
+"structures",
+"enums",
+"use_",
+"variable_bindings",
+"types",
+
 
 ]

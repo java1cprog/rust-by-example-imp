@@ -25,3 +25,19 @@ path = "src/display.rs"
 [[bin]]
 name = "display2"
 path = "src/display2.rs"
+
+[[bin]]
+name = "display2_simpler"
+path = "src/display2_simpler.rs"
+
+[[bin]]
+name = "list"
+path = "src/list.rs"
+
+[[bin]]
+name = "list2"
+path = "src/list2.rs"
+
+[[bin]]
+name = "formatting"
+path = "src/formatting.rs"

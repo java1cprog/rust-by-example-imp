@@ -1,0 +1,23 @@
+[package]
+name = "enums"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "enu_work"
+path ="src/main.rs"
+
+[[bin]]
+name = "enum_work2"
+path ="src/enum_work2.rs"
+
+[[bin]]
+name = "consts"
+path ="src/consts.rs"
+
+[[bin]]
+name = "link_list"
+path ="src/link_list.rs"

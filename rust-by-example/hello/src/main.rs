@@ -11,4 +11,7 @@ fn main() {
 
     // Print text to the console
     println!("Hello World!");
+
+//    use std::mem;
+//    println!("{}", mem::size_of_val("Hello World!"));
 }

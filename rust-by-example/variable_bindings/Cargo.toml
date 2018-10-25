@@ -1,0 +1,27 @@
+[package]
+name = "variable_bindings"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name="variable_bindings"
+path="src/main.rs"
+
+[[bin]]
+name="mut"
+path="src/mut.rs"
+
+[[bin]]
+name="scope"
+path="src/scope.rs"
+
+
+[[bin]]
+name="declare"
+path="src/declare.rs"
+
+
+

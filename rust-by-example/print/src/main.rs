@@ -41,4 +41,7 @@ fn main() {
     // handling. This will not work.
     println!("This struct `{:?}` won't print...", Structure(3));
     // TODO: ^ Comment out this line.
+
+    use std::mem;
+    println!("size of Structure {}", mem::size_of_val(&Structure(0)));
 }
