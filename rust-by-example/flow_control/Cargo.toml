@@ -73,3 +73,28 @@ path="src/match_destructuring_destructure_structures.rs"
 [[bin]]
 name ="match_guard"
 path="src/match_guard.rs"
+
+[[bin]]
+name ="binding"
+path="src/binding.rs"
+
+[[bin]]
+name ="if_let1"
+path="src/if_let1.rs"
+
+[[bin]]
+name ="if_let2"
+path="src/if_let2.rs"
+
+[[bin]]
+name ="if_let3"
+path="src/if_let3.rs"
+
+[[bin]]
+name ="while_let1"
+path="src/while_let1.rs"
+
+[[bin]]
+name ="while_let2"
+path="src/while_let2.rs"
+

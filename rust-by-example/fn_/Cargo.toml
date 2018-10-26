@@ -1,0 +1,31 @@
+[package]
+name = "fn_"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name ="fn"
+path="src/fn.rs"
+
+[[bin]]
+name ="methods"
+path="src/methods.rs"
+
+[[bin]]
+name ="closures"
+path="src/closures.rs"
+
+[[bin]]
+name ="capture1"
+path="src/capture1.rs"
+
+[[bin]]
+name ="capture2"
+path="src/capture2.rs"
+
+[[bin]]
+name ="capture3"
+path="src/capture3.rs"
