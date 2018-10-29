@@ -1,0 +1,15 @@
+[package]
+name = "hermanradtke"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name ="string1"
+path="src/string1.rs"
+
+[[bin]]
+name ="string2"
+path="src/string2.rs"

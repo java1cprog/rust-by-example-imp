@@ -1,0 +1,13 @@
+[package]
+name = "rary"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[lib]
+name = "rary_my"
+path = "src/rary_my.rs"
+
+crate-type = ["rlib"]

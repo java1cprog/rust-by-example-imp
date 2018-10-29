@@ -1,0 +1,11 @@
+[package]
+name = "split_modules"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name ="split"
+path="src/split.rs"

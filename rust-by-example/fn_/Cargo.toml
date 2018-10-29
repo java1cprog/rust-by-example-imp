@@ -29,3 +29,27 @@ path="src/capture2.rs"
 [[bin]]
 name ="capture3"
 path="src/capture3.rs"
+
+[[bin]]
+name ="input_functions"
+path="src/input_functions.rs"
+
+[[bin]]
+name ="output_parameters"
+path="src/output_parameters.rs"
+
+[[bin]]
+name ="iter_any"
+path="src/iter_any.rs"
+
+[[bin]]
+name ="iter_find"
+path="src/iter_find.rs"
+
+[[bin]]
+name ="hof"
+path="src/hof.rs"
+
+[[bin]]
+name ="diverging"
+path="src/diverging.rs"

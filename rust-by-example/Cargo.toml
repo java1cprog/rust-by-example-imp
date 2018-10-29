@@ -16,5 +16,11 @@ members=[
 "conversion",
 "flow_control",
 "fn_",
-
+"hermanradtke",
+"visibility",
+"split_modules",
+"rary",
+"cfg",
+"generics",
+"scope",
 ]

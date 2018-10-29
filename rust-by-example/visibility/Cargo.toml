@@ -1,0 +1,21 @@
+[package]
+name = "visibility"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+deeply = {path="../deeply"}
+
+
+[[bin]]
+name ="mod_"
+path="src/mod_.rs"
+
+[[bin]]
+name ="struct_visibility"
+path="src/struct_visibility.rs"
+
+[[bin]]
+name ="use"
+path="src/use.rs"

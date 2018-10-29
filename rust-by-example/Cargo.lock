@@ -3,11 +3,19 @@ name = "array_slice"
 version = "0.1.0"
 
 [[package]]
+name = "cfg"
+version = "0.1.0"
+
+[[package]]
 name = "comment"
 version = "0.1.0"
 
 [[package]]
 name = "conversion"
+version = "0.1.0"
+
+[[package]]
+name = "deeply"
 version = "0.1.0"
 
 [[package]]
@@ -23,7 +31,15 @@ name = "fn_"
 version = "0.1.0"
 
 [[package]]
+name = "generics"
+version = "0.1.0"
+
+[[package]]
 name = "hello"
+version = "0.1.0"
+
+[[package]]
+name = "hermanradtke"
 version = "0.1.0"
 
 [[package]]
@@ -36,6 +52,18 @@ version = "0.1.0"
 
 [[package]]
 name = "print_debug"
+version = "0.1.0"
+
+[[package]]
+name = "rary"
+version = "0.1.0"
+
+[[package]]
+name = "scope"
+version = "0.1.0"
+
+[[package]]
+name = "split_modules"
 version = "0.1.0"
 
 [[package]]
@@ -57,4 +85,11 @@ version = "0.1.0"
 [[package]]
 name = "variable_bindings"
 version = "0.1.0"
+
+[[package]]
+name = "visibility"
+version = "0.1.0"
+dependencies = [
+ "deeply 0.1.0",
+]
 

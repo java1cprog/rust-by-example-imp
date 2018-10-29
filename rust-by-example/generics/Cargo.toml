@@ -1,0 +1,59 @@
+[package]
+name = "generics"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name ="generics"
+path = "src/generics.rs"
+
+[[bin]]
+name ="gen_fn"
+path = "src/gen_fn.rs"
+
+[[bin]]
+name ="impl"
+path = "src/impl.rs"
+
+[[bin]]
+name ="gen_trait"
+path = "src/gen_trait.rs"
+
+[[bin]]
+name ="bounds"
+path = "src/bounds.rs"
+
+[[bin]]
+name ="testcase_empty"
+path = "src/testcase_empty.rs"
+
+[[bin]]
+name ="multi_bounds"
+path = "src/multi_bounds.rs"
+
+[[bin]]
+name ="where"
+path = "src/where.rs"
+
+[[bin]]
+name ="new_types"
+path = "src/new_types.rs"
+
+[[bin]]
+name ="assoc_items_the_problem"
+path = "src/assoc_items_the_problem.rs"
+
+[[bin]]
+name ="assoc_items_types"
+path = "src/assoc_items_types.rs"
+
+[[bin]]
+name ="phantom"
+path = "src/phantom.rs"
+
+[[bin]]
+name ="phantom_testcase_units"
+path = "src/phantom_testcase_units.rs"

@@ -67,22 +67,62 @@
       <sourceFolder url="file://$MODULE_DIR$/fn_/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/fn_/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/fn_/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/hermanradtke/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hermanradtke/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hermanradtke/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/hermanradtke/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/visibility/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visibility/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visibility/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/visibility/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/deeply/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/deeply/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/deeply/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/deeply/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/split_modules/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/split_modules/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/split_modules/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/split_modules/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rary/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rary/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rary/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/cfg/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cfg/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cfg/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/cfg/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/generics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generics/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generics/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/generics/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/scope/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scope/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scope/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/scope/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/array_slice/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cfg/target" />
       <excludeFolder url="file://$MODULE_DIR$/comment/target" />
       <excludeFolder url="file://$MODULE_DIR$/conversion/target" />
+      <excludeFolder url="file://$MODULE_DIR$/deeply/target" />
       <excludeFolder url="file://$MODULE_DIR$/enums/target" />
       <excludeFolder url="file://$MODULE_DIR$/flow_control/target" />
       <excludeFolder url="file://$MODULE_DIR$/fn_/target" />
+      <excludeFolder url="file://$MODULE_DIR$/generics/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hermanradtke/target" />
       <excludeFolder url="file://$MODULE_DIR$/primitives/target" />
       <excludeFolder url="file://$MODULE_DIR$/print/target" />
       <excludeFolder url="file://$MODULE_DIR$/print_debug/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rary/target" />
+      <excludeFolder url="file://$MODULE_DIR$/scope/target" />
+      <excludeFolder url="file://$MODULE_DIR$/split_modules/target" />
       <excludeFolder url="file://$MODULE_DIR$/structures/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/tupels/target" />
       <excludeFolder url="file://$MODULE_DIR$/types/target" />
       <excludeFolder url="file://$MODULE_DIR$/use_/target" />
       <excludeFolder url="file://$MODULE_DIR$/variable_bindings/target" />
+      <excludeFolder url="file://$MODULE_DIR$/visibility/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
