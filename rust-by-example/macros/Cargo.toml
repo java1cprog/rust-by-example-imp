@@ -1,0 +1,39 @@
+[package]
+name = "macros"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name="macros"
+path="src/macros.rs"
+
+[[bin]]
+name="designators"
+path="src/designators.rs"
+
+[[bin]]
+name="overload"
+path="src/overload.rs"
+
+[[bin]]
+name="repeat"
+path="src/repeat.rs"
+
+[[bin]]
+name="dry"
+path="src/dry.rs"
+
+[[bin]]
+name="dsl"
+path="src/dsl.rs"
+
+[[bin]]
+name="variadics"
+path="src/variadics.rs"
+
+[[bin]]
+name="rpn"
+path="src/rpn.rs"

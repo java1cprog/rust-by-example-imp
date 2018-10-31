@@ -1,0 +1,43 @@
+[package]
+name = "std"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name="box"
+path="src/box.rs"
+
+[[bin]]
+name="vector"
+path="src/vector.rs"
+
+[[bin]]
+name="str1"
+path="src/str1.rs"
+
+[[bin]]
+name="str2"
+path="src/str2.rs"
+
+[[bin]]
+name="str3"
+path="src/str3.rs"
+
+[[bin]]
+name="str4"
+path="src/str4.rs"
+
+[[bin]]
+name="option"
+path="src/option.rs"
+
+[[bin]]
+name="result"
+path="src/result.rs"
+
+[[bin]]
+name="question_mark"
+path="src/question_mark.rs"

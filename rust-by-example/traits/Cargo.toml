@@ -1,0 +1,31 @@
+[package]
+name = "traits"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name="traits"
+path="src/traits.rs"
+
+[[bin]]
+name="derive"
+path="src/derive.rs"
+
+[[bin]]
+name="trait_ops"
+path="src/trait_ops.rs"
+
+[[bin]]
+name="trait_drop"
+path="src/trait_drop.rs"
+
+[[bin]]
+name="trait_iter"
+path="src/trait_iter.rs"
+
+[[bin]]
+name="trait_clone"
+path="src/trait_clone.rs"

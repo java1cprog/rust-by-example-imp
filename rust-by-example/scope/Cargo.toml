@@ -5,3 +5,71 @@ authors = ["Anatolii <java1cprog@yandex.ru>"]
 edition = "2018"
 
 [dependencies]
+
+[[bin]]
+name ="raii"
+path = "src/raii.rs"
+
+[[bin]]
+name ="drop"
+path = "src/drop.rs"
+
+[[bin]]
+name ="move"
+path = "src/move.rs"
+
+[[bin]]
+name ="move_mut"
+path = "src/move_mut.rs"
+
+[[bin]]
+name ="borrow"
+path = "src/borrow.rs"
+
+[[bin]]
+name ="borrow_mut"
+path = "src/borrow_mut.rs"
+
+[[bin]]
+name ="borrow_freeze"
+path = "src/borrow_freeze.rs"
+
+[[bin]]
+name ="borrow_alias"
+path = "src/borrow_alias.rs"
+
+[[bin]]
+name ="borrow_ref"
+path = "src/borrow_ref.rs"
+
+[[bin]]
+name ="lifetime_explicit"
+path = "src/lifetime_explicit.rs"
+
+[[bin]]
+name ="lifetime_fn"
+path = "src/lifetime_fn.rs"
+
+[[bin]]
+name ="lifetime_methods"
+path = "src/lifetime_methods.rs"
+
+[[bin]]
+name ="lifetime_struct"
+path = "src/lifetime_struct.rs"
+
+[[bin]]
+name ="lifetime_bounds"
+path = "src/lifetime_bounds.rs"
+
+[[bin]]
+name ="lifetime_coercion"
+path = "src/lifetime_coercion.rs"
+
+[[bin]]
+name ="lifetime_static"
+path = "src/lifetime_static.rs"
+
+[[bin]]
+name ="lifetime_elision"
+path = "src/lifetime_elision.rs"

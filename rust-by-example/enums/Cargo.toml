@@ -21,3 +21,7 @@ path ="src/consts.rs"
 [[bin]]
 name = "link_list"
 path ="src/link_list.rs"
+
+[[bin]]
+name = "conditional-enum-variants"
+path ="src/conditional-enum-variants.rs"

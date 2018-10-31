@@ -23,6 +23,10 @@ name = "enums"
 version = "0.1.0"
 
 [[package]]
+name = "error"
+version = "0.1.0"
+
+[[package]]
 name = "flow_control"
 version = "0.1.0"
 
@@ -40,6 +44,10 @@ version = "0.1.0"
 
 [[package]]
 name = "hermanradtke"
+version = "0.1.0"
+
+[[package]]
+name = "macros"
 version = "0.1.0"
 
 [[package]]
@@ -67,7 +75,15 @@ name = "split_modules"
 version = "0.1.0"
 
 [[package]]
+name = "std"
+version = "0.1.0"
+
+[[package]]
 name = "structures"
+version = "0.1.0"
+
+[[package]]
+name = "traits"
 version = "0.1.0"
 
 [[package]]

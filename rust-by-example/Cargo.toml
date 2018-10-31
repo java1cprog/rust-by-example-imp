@@ -23,4 +23,8 @@ members=[
 "cfg",
 "generics",
 "scope",
+"traits",
+"macros",
+"error",
+"std",
 ]

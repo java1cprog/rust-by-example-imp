@@ -99,25 +99,45 @@
       <sourceFolder url="file://$MODULE_DIR$/scope/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/scope/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/scope/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/traits/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/traits/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/traits/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/macros/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/macros/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/macros/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/macros/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/error/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/error/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/error/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/error/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/std/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/std/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/std/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/std/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/array_slice/target" />
       <excludeFolder url="file://$MODULE_DIR$/cfg/target" />
       <excludeFolder url="file://$MODULE_DIR$/comment/target" />
       <excludeFolder url="file://$MODULE_DIR$/conversion/target" />
       <excludeFolder url="file://$MODULE_DIR$/deeply/target" />
       <excludeFolder url="file://$MODULE_DIR$/enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/error/target" />
       <excludeFolder url="file://$MODULE_DIR$/flow_control/target" />
       <excludeFolder url="file://$MODULE_DIR$/fn_/target" />
       <excludeFolder url="file://$MODULE_DIR$/generics/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/hermanradtke/target" />
+      <excludeFolder url="file://$MODULE_DIR$/macros/target" />
       <excludeFolder url="file://$MODULE_DIR$/primitives/target" />
       <excludeFolder url="file://$MODULE_DIR$/print/target" />
       <excludeFolder url="file://$MODULE_DIR$/print_debug/target" />
       <excludeFolder url="file://$MODULE_DIR$/rary/target" />
       <excludeFolder url="file://$MODULE_DIR$/scope/target" />
       <excludeFolder url="file://$MODULE_DIR$/split_modules/target" />
+      <excludeFolder url="file://$MODULE_DIR$/std/target" />
       <excludeFolder url="file://$MODULE_DIR$/structures/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/traits/target" />
       <excludeFolder url="file://$MODULE_DIR$/tupels/target" />
       <excludeFolder url="file://$MODULE_DIR$/types/target" />
       <excludeFolder url="file://$MODULE_DIR$/use_/target" />
