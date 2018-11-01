@@ -1,0 +1,16 @@
+[package]
+name = "unsafe_"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name="raw_pointers"
+path="src/raw_pointers.rs"
+
+[[bin]]
+name="unsave_function"
+path="src/unsave_function.rs"
+

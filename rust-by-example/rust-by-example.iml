@@ -115,11 +115,37 @@
       <sourceFolder url="file://$MODULE_DIR$/std/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/std/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/std/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/std_misc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/std_misc/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/std_misc/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/std_misc/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testing/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testing/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/testing/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/integration_testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/integration_testing/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/integration_testing/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/integration_testing/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/dev_dependencies/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev_dependencies/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev_dependencies/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/dev_dependencies/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/unsafe_/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unsafe_/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unsafe_/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/unsafe_/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/doc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/doc/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/doc/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/doc/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/array_slice/target" />
       <excludeFolder url="file://$MODULE_DIR$/cfg/target" />
       <excludeFolder url="file://$MODULE_DIR$/comment/target" />
       <excludeFolder url="file://$MODULE_DIR$/conversion/target" />
       <excludeFolder url="file://$MODULE_DIR$/deeply/target" />
+      <excludeFolder url="file://$MODULE_DIR$/dev_dependencies/target" />
+      <excludeFolder url="file://$MODULE_DIR$/doc/target" />
       <excludeFolder url="file://$MODULE_DIR$/enums/target" />
       <excludeFolder url="file://$MODULE_DIR$/error/target" />
       <excludeFolder url="file://$MODULE_DIR$/flow_control/target" />
@@ -127,6 +153,7 @@
       <excludeFolder url="file://$MODULE_DIR$/generics/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/hermanradtke/target" />
+      <excludeFolder url="file://$MODULE_DIR$/integration_testing/target" />
       <excludeFolder url="file://$MODULE_DIR$/macros/target" />
       <excludeFolder url="file://$MODULE_DIR$/primitives/target" />
       <excludeFolder url="file://$MODULE_DIR$/print/target" />
@@ -135,11 +162,14 @@
       <excludeFolder url="file://$MODULE_DIR$/scope/target" />
       <excludeFolder url="file://$MODULE_DIR$/split_modules/target" />
       <excludeFolder url="file://$MODULE_DIR$/std/target" />
+      <excludeFolder url="file://$MODULE_DIR$/std_misc/target" />
       <excludeFolder url="file://$MODULE_DIR$/structures/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/testing/target" />
       <excludeFolder url="file://$MODULE_DIR$/traits/target" />
       <excludeFolder url="file://$MODULE_DIR$/tupels/target" />
       <excludeFolder url="file://$MODULE_DIR$/types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/unsafe_/target" />
       <excludeFolder url="file://$MODULE_DIR$/use_/target" />
       <excludeFolder url="file://$MODULE_DIR$/variable_bindings/target" />
       <excludeFolder url="file://$MODULE_DIR$/visibility/target" />

@@ -1,0 +1,23 @@
+[package]
+name = "testing"
+version = "0.1.0"
+authors = ["Anatolii <java1cprog@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "unit_testing"
+path="src/unit_testing.rs"
+
+[[bin]]
+name = "unit_testing_should_panic"
+path="src/unit_testing_should_panic.rs"
+
+[[bin]]
+name = "unit_testing_ignored"
+path="src/unit_testing_ignored.rs"
+
+[[bin]]
+name = "doc_testing"
+path="src/doc_testing.rs"

@@ -27,4 +27,10 @@ members=[
 "macros",
 "error",
 "std",
+"std_misc",
+"testing",
+"integration_testing",
+"dev_dependencies",
+"unsafe_",
+"doc",
 ]
